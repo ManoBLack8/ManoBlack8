@@ -16,10 +16,10 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/vinicius-silva-161766180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ManoBlack8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-silva-161766180/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ManoBlack8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100016309186131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ManoBlack8" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__manoblack__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ManoBlack8" height="30" width="40" /></a>
-<a href="https://discord.gg/#6501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jaqueline Gonzaga#4803" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__manoblack__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ManoBlack8" height="30" width="40" /></a>
+<a href="https://discord.gg/#6501" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jaqueline Gonzaga#4803" height="30" width="40" /></a>
 </p>
 
 
