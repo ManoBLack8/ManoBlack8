@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ManoBlack8&label=Profile%20views&color=e3ff00&style=flat" alt="ManoBlack8" /> </p>
 <p align="center"> 🌱 I'm working with <strong>Javascript, PHP, and Python</strong> </p>
 <p align="center"> 👨‍💻 All of my projects are available [here](https://github.com/ManoBlack8?tab=repositories) </p>
-<p align="center"> 📫 How to reach me? **viniciusfe66@gmail.com** </p>
-<p align="center"> ⚡ Fun fact about me: **I'm creative, entrepreneurial, and very sociable** </p>
+<p align="center"> 📫 How to reach me? <strong>viniciusfe66@gmail.com</strong> </p>
+<p align="center"> ⚡ Fun fact about me: <strong>I'm creative, entrepreneurial, and very sociable</strong> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinicius-silva-161766180/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ManoBlack8" height="30" width="40" /></a>
