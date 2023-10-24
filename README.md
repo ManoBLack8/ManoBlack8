@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ManoBlack8&label=Profile%20views&color=e3ff00&style=flat" alt="ManoBlack8" /> </p>
 <p align="center"> 🌱 I'm working with <strong>Javascript, PHP, and Python</strong> </p>
-<p align="center"> 👨‍💻 All of my projects are available [here](https://github.com/ManoBlack8?tab=repositories) </p>
+<p align="center"> 👨‍💻 All of my projects are available [here]{https://github.com/ManoBlack8?tab=repositories} </p>
 <p align="center"> 📫 How to reach me? <strong>viniciusfe66@gmail.com</strong> </p>
 <p align="center"> ⚡ Fun fact about me: <strong>I'm creative, entrepreneurial, and very sociable</strong> </p>
 <h3 align="center">Connect with me:</h3>
